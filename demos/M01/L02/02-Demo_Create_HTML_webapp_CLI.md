@@ -45,7 +45,7 @@ This demo is performed in the Cloud Shell using the Bash environment.
     ```bash
     cd html-docs-hello-world
 
-    az webapp up --location <region> --name <app_name>
+    az webapp up -n <app_name> -l <region> --html
     ```
 
     This command may take a few minutes to run. While running, it displays information similar to the example below. Make a note of the `resourceGroup` value. You need it for the clean up resources section.
