@@ -43,7 +43,7 @@ In this demo you will learn how to create a Web App by using the Azure Portal.
 
  7. Once the app is ready you can select the **Go to resource** button and the portal will display the web app overview page. To preview your new web app's default content, select its URL at the top right. The placeholder page that loads indicates that your web app is up and running and ready to receive deployment of your app's code.
 
-    ![Image showing the web app overview page showing the location of the web app URL.](../../linked_image_files/3-web-app-home.png)
+    
 
 ## Clean up resources
 
