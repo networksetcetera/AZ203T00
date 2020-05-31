@@ -63,8 +63,11 @@ This demo is performed in the Cloud Shell using the Bash environment.
     < JSON data removed for brevity. >
     }
     ```
+![deploy Web App using CLI](https://github.com/networksetcetera/AZ203T00/blob/master/images/Screen%20Shot%202020-05-31%20at%202.12.25%20PM.png)
 
 2. Open a browser and navigate to the app URL (`http://<app_name>.azurewebsites.net`) and verify the app is running. Leave the browser open on the app for the next section.
+
+![view the running Web App](https://github.com/networksetcetera/AZ203T00/blob/master/images/Screen%20Shot%202020-05-31%20at%202.12.34%20PM.png)
 
 ## Update and redeploy the app
 
